@@ -1,0 +1,10 @@
+{
+  "kind": "plan",
+  "id": "inbox-resolve-recurring-sweep-2026-09-01",
+  "title": "Recurring Inbox bulk-resolve sweep — scheduled runs so attention debt stops re-accumulating silently",
+  "description": "",
+  "version": "0.1.0",
+  "source": "exported",
+  "item_count": 3,
+  "decision_count": 0
+}

@@ -1,0 +1,10 @@
+{
+  "kind": "plan",
+  "id": "critical-severity-alert-2026-07-06",
+  "title": "Alert on new critical-severity work items in papercusp",
+  "description": "",
+  "version": "0.1.0",
+  "source": "exported",
+  "item_count": 0,
+  "decision_count": 0
+}

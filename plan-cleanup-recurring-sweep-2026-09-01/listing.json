@@ -1,0 +1,10 @@
+{
+  "kind": "plan",
+  "id": "plan-cleanup-recurring-sweep-2026-09-01",
+  "title": "Recurring plan-cleanup sweep — scheduled scanner runs so stale-plan debt becomes a measurable trend",
+  "description": "",
+  "version": "0.1.0",
+  "source": "exported",
+  "item_count": 3,
+  "decision_count": 0
+}
